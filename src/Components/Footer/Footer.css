@@ -92,4 +92,8 @@
         flex-direction: column-reverse;
         margin-bottom: 50px;
     }
+    .footer-top-right{
+        display: flex;
+        flex-direction: column;
+    }
 }
