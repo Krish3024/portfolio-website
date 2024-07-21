@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background: #161513;
+    color: white;
+    font-family: 'outfit';
+    cursor: default;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track{
+    background: #161513;
+}
+::-webkit-scrollbar-thumb{
+    background: #CADCFC;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #00246B;
+}
