@@ -113,6 +113,6 @@
 }
 @media(max-width:1280px){
     .services-container{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 }
