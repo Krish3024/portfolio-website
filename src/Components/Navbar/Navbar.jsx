@@ -21,7 +21,13 @@ const Navbar = () => {
   return (
     <div className='navbar'>
 
-      
+      <div className="center">
+        <h1>
+          <span>Krish</span>
+          <span>Krish</span>
+          <span>Krish</span>
+        </h1>
+      </div>
       {/* <h1>Krish S.</h1> */}
       <img src={menu_open} alt="" onClick={openMenu} className='nav-mob-open'/>
       <ul ref={menuRef} className='nav-menu'>
