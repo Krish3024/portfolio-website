@@ -11,15 +11,14 @@ const Footer = () => {
     <div className='footer'>
       <div className="footer-top">
         <div className="footer-top-left">
-            <h1>Krish S.</h1>
-            <div className="contact-detail">
-              <p>Follow my socials :</p>
-              <a href="https://github.com/Krish3024"><img src={github_icon} alt="" style={{width:"30px"}}/></a>
-              <a href="https://www.linkedin.com/in/krish-sahu-513189278/"><img src={linkedin_icon} alt="" style={{width:"30px"}}/></a>
-              <a href="https://www.instagram.com/krishsahu.024/"><img src={instagram_icon} alt="" style={{width:"30px"}}/></a>
-            
-            </div>
-            
+          <h1>Krish S.</h1>
+          <div className="contact-detail">
+            <p>Follow me:</p>
+            <a href="https://github.com/Krish3024"><img src={github_icon} alt="" style={{width:"30px"}}/></a>
+            <a href="https://www.linkedin.com/in/krish-sahu-513189278/"><img src={linkedin_icon} alt="" style={{width:"30px"}}/></a>
+            <a href="https://www.instagram.com/krishsahu.024/"><img src={instagram_icon} alt="" style={{width:"30px"}}/></a>
+          
+          </div> 
         </div>
         <div className="footer-top-right">
             <div className="footer-email-input">
