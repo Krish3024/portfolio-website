@@ -9,7 +9,7 @@ body{
     color: white;
     font-family: 'outfit';
     cursor: default;
-    overflow-x: hidden;
+    overflow-x: clip;
 }
 
 ::-webkit-scrollbar {
