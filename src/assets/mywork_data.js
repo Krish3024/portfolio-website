@@ -16,7 +16,7 @@ const mywork_data = [
         w_no:2,
         w_name:"Blog app using Next-JS",
         w_img:project2_img,
-        w_link:"https://next-blog-app-ruby-omega.vercel.app/"
+        w_link:"https://blogger-two-alpha.vercel.app/"
     },
     {
         w_no:3,
