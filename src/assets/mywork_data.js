@@ -40,7 +40,7 @@ const mywork_data = [
         w_no:6,
         w_name:"Frontend Tindog Project",
         w_img:project5_img,
-        w_link:"https://krish3024.github.io/TinDog/"
+        w_link:"https://libathon.vercel.app/"
     },
     
 ]
