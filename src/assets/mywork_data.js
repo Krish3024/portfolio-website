@@ -32,9 +32,9 @@ const mywork_data = [
     },
     {
         w_no:5,
-        w_name:"Frontend Murder Mystrey Project",
+        w_name:"Food Sharing Platform",
         w_img:project4_img,
-        w_link:"https://murder-mystery-zeta.vercel.app/"
+        w_link:"https://food-sharing-app-three.vercel.app/"
     },
     {
         w_no:6,
