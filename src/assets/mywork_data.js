@@ -13,10 +13,10 @@ const mywork_data = [
         w_link:"https://food-del-frontend-i5u5.onrender.com/"
     },
     {
-        w_no:2,
-        w_name:"Blog app using Next-JS",
-        w_img:project2_img,
-        w_link:"https://blogger-two-alpha.vercel.app/"
+        w_no:6,
+        w_name:"Libathon Project",
+        w_img:project5_img,
+        w_link:"https://libathon.vercel.app/"
     },
     {
         w_no:3,
@@ -37,12 +37,11 @@ const mywork_data = [
         w_link:"https://food-sharing-app-three.vercel.app/"
     },
     {
-        w_no:6,
-        w_name:"Libathon Project",
-        w_img:project5_img,
-        w_link:"https://libathon.vercel.app/"
-    },
-    
+        w_no:2,
+        w_name:"Blog app using Next-JS",
+        w_img:project2_img,
+        w_link:"https://blogger-two-alpha.vercel.app/"
+    }
 ]
  
 export default mywork_data;
