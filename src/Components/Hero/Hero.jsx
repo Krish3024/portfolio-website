@@ -6,7 +6,7 @@ import github_icon from '../../assets/github.png'
 import linkedin_icon from '../../assets/linkedin.png'
 import instagram_icon from '../../assets/instagram.png'
 
-const fileUrl = "https://drive.google.com/file/d/1nC23awaVkGg5qJ4micxgUyJrfXUVsmuq/view?usp=sharing";
+const fileUrl = "https://drive.google.com/file/d/1jF2umbQfLr5Yyz6erj30EzXka5x8NM_R/view?usp=drive_link";
 
 
 const handleDownload = () => {
